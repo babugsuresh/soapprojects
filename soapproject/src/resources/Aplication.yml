@@ -1,0 +1,36 @@
+Environment:
+    - dit1
+    - dit2
+    - dit3
+    - dit4
+    
+EnvironmentURI:
+    PDS: webservicesserver/numberconversion.wso
+    XRS: calculator.asmx
+    Tariff: kkkk
+    ILMS: lll
+    
+Host:
+    dit1:
+        PDS: http://www.dataaccess.com
+        XRS: http://www.dneonline.com
+        Tariff: kkkk
+        ILMS: lll
+    dit2:
+        PDS: xyx
+        XRS: jjj
+        Tariff: kkkk
+        ILMS: lll
+    dit3:
+        PDS: xyx
+        XRS: jjj
+        Tariff: kkkk
+        ILMS: lll
+    dit4:
+        PDS: xyx
+        XRS: jjj
+        Tariff: kkkk
+        ILMS: lll
+        
+ReportDestination:
+    - frfrfrf
